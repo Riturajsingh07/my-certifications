@@ -1,10 +1,20 @@
-# my-certifications
+# Certifications Portfolio
 
-This repository showcases my course completion certificates from different online learning platforms. The certifications highlight my knowledge in Python programming, data analytics, and core computer science concepts.
+Welcome to my certifications repository.
 
-I am currently pursuing a B.Tech in Computer Science and Engineering and continuously working on improving my technical and problem-solving skills.
+This repository showcases the certificates I have earned while learning programming, data analytics, and computer science fundamentals from various online platforms.
 
-These certifications represent my commitment to continuous learning and professional development in the field of technology. Through these courses, I have gained foundational knowledge in programming, logical thinking, and data-related concepts.
+I am currently a **Computer Science and Engineering student at IPS Academy, Indore**, and I actively work on improving my technical and analytical skills.
 
-I aim to apply these skills in real-world projects, software development, and data-driven problem solving while building a strong technical portfolio.
+## What This Repository Shows
+- My commitment to continuous learning
+- Practical knowledge in Python and data-related concepts
+- Progress in building a strong technical foundation
+
+Through these courses, I have developed skills in **Python programming, problem-solving, logical reasoning, and data analysis fundamentals**.
+
+I aim to apply these skills in real-world applications, build impactful projects, and grow as a **software developer and data analyst**.
+
+🚀 *Learning never stops — more certifications will be added as I continue my journey.*
+
 
