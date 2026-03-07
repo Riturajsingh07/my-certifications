@@ -42,6 +42,7 @@ This repository includes certificates that I have earned from different learning
 * **Python Programming Certificate – GeeksforGeeks (GFG)**
 * **Database Management System (DBMS) – NPTEL**
 * **Internship Certificate – IIT Kharagpur**
+* GenAI Powered Data Analytics Job Simulation – Tata Group (Forage)
 
 More certificates will be added as I continue learning new technologies and completing more courses.
 
@@ -52,3 +53,4 @@ My goal is to apply these skills in real-world projects, contribute to meaningfu
 I am continuously learning new tools and technologies related to **programming, data analysis, and computer science** to strengthen my career in the tech industry.
 
 🚀 *This repository will continue to grow as I complete more courses, certifications, and learning milestones in my learning journey.*
+
