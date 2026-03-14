@@ -49,8 +49,7 @@ This repository includes certificates that I have earned from different learning
 
 
 More certificates will be added as I continue learning new technologies and completing more courses.
-
-## 🎯 Career Goal
+--> 🎯 Career Goal <<--
 
 My goal is to apply these skills in real-world projects, contribute to meaningful technological solutions, and grow as a **Software Developer and Data Analytics Professional**.
 
